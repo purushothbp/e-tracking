@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mainproject</string>
+    <string name="username">Username</string>
+    <string name="new_to_track">New to Track?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="enter_your_name">Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="create_password">Create Password</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="email">Email id</string>
+    <string name="college_name">College Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="email_phone_number">Email / Phone number</string>
+    <string name="getotp">Get OTP</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="driver">Driver</string>
+    <string name="student">Student</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
