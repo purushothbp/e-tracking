@@ -40,7 +40,6 @@ class LoginActivity : AppCompatActivity() {
             startActivity(intent)
             Toast.makeText(this,"Fill the required DETAILS",Toast.LENGTH_LONG).show()
         }
-        supportActionBar.hide()
 
     }
 
