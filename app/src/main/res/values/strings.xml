@@ -22,4 +22,8 @@
     <string name="driver">Driver</string>
     <string name="student">Student</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="estimating_time">Estimating Time</string>
+    <string name="busno_route">BusNo/Route</string>
+    
+
 </resources>
