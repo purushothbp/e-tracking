@@ -24,6 +24,7 @@
     <string name="title_activity_maps">MapsActivity</string>
     <string name="estimating_time">Estimating Time</string>
     <string name="busno_route">BusNo/Route</string>
-    
+    <string name="enter_route_no">Select ROUTE NO</string>
+
 
 </resources>
